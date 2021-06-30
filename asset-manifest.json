@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/arun-kushwaha04/Reviews-React-Project.git/static/css/main.eb44a210.chunk.css",
-    "main.js": "/arun-kushwaha04/Reviews-React-Project.git/static/js/main.65936661.chunk.js",
-    "main.js.map": "/arun-kushwaha04/Reviews-React-Project.git/static/js/main.65936661.chunk.js.map",
-    "runtime-main.js": "/arun-kushwaha04/Reviews-React-Project.git/static/js/runtime-main.48963080.js",
-    "runtime-main.js.map": "/arun-kushwaha04/Reviews-React-Project.git/static/js/runtime-main.48963080.js.map",
-    "static/js/2.bdbc782b.chunk.js": "/arun-kushwaha04/Reviews-React-Project.git/static/js/2.bdbc782b.chunk.js",
-    "static/js/2.bdbc782b.chunk.js.map": "/arun-kushwaha04/Reviews-React-Project.git/static/js/2.bdbc782b.chunk.js.map",
-    "index.html": "/arun-kushwaha04/Reviews-React-Project.git/index.html",
-    "precache-manifest.f691493f4868876e44e33d82caf8a9d5.js": "/arun-kushwaha04/Reviews-React-Project.git/precache-manifest.f691493f4868876e44e33d82caf8a9d5.js",
-    "service-worker.js": "/arun-kushwaha04/Reviews-React-Project.git/service-worker.js",
-    "static/css/main.eb44a210.chunk.css.map": "/arun-kushwaha04/Reviews-React-Project.git/static/css/main.eb44a210.chunk.css.map",
-    "static/js/2.bdbc782b.chunk.js.LICENSE.txt": "/arun-kushwaha04/Reviews-React-Project.git/static/js/2.bdbc782b.chunk.js.LICENSE.txt"
+    "main.css": "/Tour-Guider/Reviews-React-Project/static/css/main.eb44a210.chunk.css",
+    "main.js": "/Tour-Guider/Reviews-React-Project/static/js/main.65936661.chunk.js",
+    "main.js.map": "/Tour-Guider/Reviews-React-Project/static/js/main.65936661.chunk.js.map",
+    "runtime-main.js": "/Tour-Guider/Reviews-React-Project/static/js/runtime-main.b9e1db0f.js",
+    "runtime-main.js.map": "/Tour-Guider/Reviews-React-Project/static/js/runtime-main.b9e1db0f.js.map",
+    "static/js/2.bdbc782b.chunk.js": "/Tour-Guider/Reviews-React-Project/static/js/2.bdbc782b.chunk.js",
+    "static/js/2.bdbc782b.chunk.js.map": "/Tour-Guider/Reviews-React-Project/static/js/2.bdbc782b.chunk.js.map",
+    "index.html": "/Tour-Guider/Reviews-React-Project/index.html",
+    "precache-manifest.82b385e055f440e7a309dc49f4011138.js": "/Tour-Guider/Reviews-React-Project/precache-manifest.82b385e055f440e7a309dc49f4011138.js",
+    "service-worker.js": "/Tour-Guider/Reviews-React-Project/service-worker.js",
+    "static/css/main.eb44a210.chunk.css.map": "/Tour-Guider/Reviews-React-Project/static/css/main.eb44a210.chunk.css.map",
+    "static/js/2.bdbc782b.chunk.js.LICENSE.txt": "/Tour-Guider/Reviews-React-Project/static/js/2.bdbc782b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.48963080.js",
+    "static/js/runtime-main.b9e1db0f.js",
     "static/js/2.bdbc782b.chunk.js",
     "static/css/main.eb44a210.chunk.css",
     "static/js/main.65936661.chunk.js"
