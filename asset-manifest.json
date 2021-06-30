@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Tour-Guider/Reviews-React-Project/static/css/main.eb44a210.chunk.css",
-    "main.js": "/Tour-Guider/Reviews-React-Project/static/js/main.65936661.chunk.js",
-    "main.js.map": "/Tour-Guider/Reviews-React-Project/static/js/main.65936661.chunk.js.map",
-    "runtime-main.js": "/Tour-Guider/Reviews-React-Project/static/js/runtime-main.b9e1db0f.js",
-    "runtime-main.js.map": "/Tour-Guider/Reviews-React-Project/static/js/runtime-main.b9e1db0f.js.map",
-    "static/js/2.bdbc782b.chunk.js": "/Tour-Guider/Reviews-React-Project/static/js/2.bdbc782b.chunk.js",
-    "static/js/2.bdbc782b.chunk.js.map": "/Tour-Guider/Reviews-React-Project/static/js/2.bdbc782b.chunk.js.map",
-    "index.html": "/Tour-Guider/Reviews-React-Project/index.html",
-    "precache-manifest.82b385e055f440e7a309dc49f4011138.js": "/Tour-Guider/Reviews-React-Project/precache-manifest.82b385e055f440e7a309dc49f4011138.js",
-    "service-worker.js": "/Tour-Guider/Reviews-React-Project/service-worker.js",
-    "static/css/main.eb44a210.chunk.css.map": "/Tour-Guider/Reviews-React-Project/static/css/main.eb44a210.chunk.css.map",
-    "static/js/2.bdbc782b.chunk.js.LICENSE.txt": "/Tour-Guider/Reviews-React-Project/static/js/2.bdbc782b.chunk.js.LICENSE.txt"
+    "main.css": "/Reviews-React-Project/static/css/main.eb44a210.chunk.css",
+    "main.js": "/Reviews-React-Project/static/js/main.65936661.chunk.js",
+    "main.js.map": "/Reviews-React-Project/static/js/main.65936661.chunk.js.map",
+    "runtime-main.js": "/Reviews-React-Project/static/js/runtime-main.7c7720b4.js",
+    "runtime-main.js.map": "/Reviews-React-Project/static/js/runtime-main.7c7720b4.js.map",
+    "static/js/2.bdbc782b.chunk.js": "/Reviews-React-Project/static/js/2.bdbc782b.chunk.js",
+    "static/js/2.bdbc782b.chunk.js.map": "/Reviews-React-Project/static/js/2.bdbc782b.chunk.js.map",
+    "index.html": "/Reviews-React-Project/index.html",
+    "precache-manifest.ed053884a04db34564b4fd803204aef8.js": "/Reviews-React-Project/precache-manifest.ed053884a04db34564b4fd803204aef8.js",
+    "service-worker.js": "/Reviews-React-Project/service-worker.js",
+    "static/css/main.eb44a210.chunk.css.map": "/Reviews-React-Project/static/css/main.eb44a210.chunk.css.map",
+    "static/js/2.bdbc782b.chunk.js.LICENSE.txt": "/Reviews-React-Project/static/js/2.bdbc782b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b9e1db0f.js",
+    "static/js/runtime-main.7c7720b4.js",
     "static/js/2.bdbc782b.chunk.js",
     "static/css/main.eb44a210.chunk.css",
     "static/js/main.65936661.chunk.js"
