@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/arun-kushwaha04/Reviews-React-Project.git/static/css/main.eb44a210.chunk.css",
+    "main.js": "/arun-kushwaha04/Reviews-React-Project.git/static/js/main.65936661.chunk.js",
+    "main.js.map": "/arun-kushwaha04/Reviews-React-Project.git/static/js/main.65936661.chunk.js.map",
+    "runtime-main.js": "/arun-kushwaha04/Reviews-React-Project.git/static/js/runtime-main.48963080.js",
+    "runtime-main.js.map": "/arun-kushwaha04/Reviews-React-Project.git/static/js/runtime-main.48963080.js.map",
+    "static/js/2.bdbc782b.chunk.js": "/arun-kushwaha04/Reviews-React-Project.git/static/js/2.bdbc782b.chunk.js",
+    "static/js/2.bdbc782b.chunk.js.map": "/arun-kushwaha04/Reviews-React-Project.git/static/js/2.bdbc782b.chunk.js.map",
+    "index.html": "/arun-kushwaha04/Reviews-React-Project.git/index.html",
+    "precache-manifest.f691493f4868876e44e33d82caf8a9d5.js": "/arun-kushwaha04/Reviews-React-Project.git/precache-manifest.f691493f4868876e44e33d82caf8a9d5.js",
+    "service-worker.js": "/arun-kushwaha04/Reviews-React-Project.git/service-worker.js",
+    "static/css/main.eb44a210.chunk.css.map": "/arun-kushwaha04/Reviews-React-Project.git/static/css/main.eb44a210.chunk.css.map",
+    "static/js/2.bdbc782b.chunk.js.LICENSE.txt": "/arun-kushwaha04/Reviews-React-Project.git/static/js/2.bdbc782b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48963080.js",
+    "static/js/2.bdbc782b.chunk.js",
+    "static/css/main.eb44a210.chunk.css",
+    "static/js/main.65936661.chunk.js"
+  ]
+}
